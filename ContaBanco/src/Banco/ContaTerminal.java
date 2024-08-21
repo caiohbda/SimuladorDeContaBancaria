@@ -12,7 +12,7 @@ public class ContaTerminal {
 		
 		System.out.print("Digite o Número da conta: ");
 		int numero = scanner.nextInt();
-		scanner.nextLine();
+		scanner.nextLine();	
 		
 		System.out.print("Digite a sua agência: ");
 		String agencia = scanner.nextLine();
