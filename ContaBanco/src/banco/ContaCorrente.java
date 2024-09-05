@@ -1,5 +1,4 @@
 package banco;
 
-public class ContaCorrente {
-
+public class ContaCorrente extends Conta {
 }
